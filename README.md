@@ -31,3 +31,7 @@ network = hopfieldModel(N)
 network.W 
 # Once completed, this class variable will contain the transition matrix associated with the pattern(s) entered. 
 ```
+_______________________________________________________________________________________________________________________________________
+## Example 
+
+![](https://cdn.glitch.com/c7c4a50c-7633-4fb7-a517-6e114c5e1eff%2Fsim33.gif?v=1585365622438)
